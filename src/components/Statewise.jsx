@@ -19,7 +19,7 @@ export const Statewise = () => {
     <>
       <div className="container-fluid mt-5">
         <div className="main-heading">
-          <h1 className="mb-5">
+          <h1 className="mb-5 text-center">
             <span className="font-weight-bold">INDIA </span> COVID-19 DASHBAORD
           </h1>
         </div>
